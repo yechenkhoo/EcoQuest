@@ -5,10 +5,14 @@
 A 2D educational game built with the LibGDX framework to promote recycling awareness through interactive gameplay. Players collect recyclable items while avoiding non-recyclables, progressing through multiple levels that combine entertainment with environmental education.
 
 ## Contributions
-Developed the spawning and respawning logic for items, including random spawn positioning, item lifecycle management, and respawn after removal. Implemented item attributes and mechanics, including recyclable/non-recyclable logic and rotating animations for visual engagement. Contributed to asset integration, adding texture images and background frames to enhance game visuals.
+Developed the spawning and respawning logic for items, including random spawn positioning, item lifecycle management, and respawn after removal. 
+
+Implemented item attributes and mechanics, including recyclable/non-recyclable logic and rotating animations for visual engagement. Contributed to asset integration, adding texture images and background frames to enhance game visuals.
 
 ## Lessons Learnt
-Strengthened understanding of object-oriented programming principles (inheritance, polymorphism, encapsulation, abstraction, modularity).Gained hands-on experience with game development frameworks (LibGDX) and integrating animations, assets, and entity lifecycles.
+Strengthened understanding of object-oriented programming principles (inheritance, polymorphism, encapsulation, abstraction, modularity).
+
+Gained hands-on experience with game development frameworks (LibGDX) and integrating animations, assets, and entity lifecycles.
 
 __________________________________________________________________________________________________________________________________________
 
