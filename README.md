@@ -1,4 +1,4 @@
-# EcoQuest | Object Oriented Programming
+# EcoQuest Recycling Awareness Game | Object Oriented Programming
 [Jan 2024 - March 2024]
 
 ## Brief Description
