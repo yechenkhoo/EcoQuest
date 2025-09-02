@@ -1,0 +1,239 @@
+{
+"BitmapFont": {
+	"font": {
+		"file": "font-export.fnt",
+		"scaledSize": -1,
+		"markupEnabled": false,
+		"flip": false
+	}
+},
+"Color": {
+	"black": {
+		"hex": "000000ff"
+	},
+	"red": {
+		"hex": "ff0000ff"
+	},
+	"white": {
+		"hex": "ffffffff"
+	}
+},
+"TintedDrawable": {
+	"black": {
+		"name": "white",
+		"color": {
+			"hex": "000000ff"
+		}
+	},
+	"cyan": {
+		"name": "white",
+		"color": {
+			"hex": "94f8f7ff"
+		}
+	}
+},
+"ButtonStyle": {
+	"default": {
+		"up": "normal",
+		"down": "pressed",
+		"over": "hover"
+	},
+	"toggle": {
+		"up": "button",
+		"down": "button-pressed",
+		"over": "button-over",
+		"checked": "button-pressed"
+	},
+	"spinner-up": {
+		"up": "spinner-up",
+		"down": "spinner-up-pressed",
+		"over": "spinner-up-over"
+	},
+	"spinner-down": {
+		"up": "spinner-down",
+		"down": "spinner-down-pressed",
+		"over": "spinner-down-over"
+	},
+	"close": {
+		"up": "close",
+		"down": "close-down"
+	}
+},
+"CheckBoxStyle": {
+	"default": {
+		"checkboxOn": "checkbox-on",
+		"checkboxOff": "checkbox",
+		"checkboxOver": "checkbox-over",
+		"font": "font",
+		"fontColor": "black"
+	},
+	"radio": {
+		"checkboxOn": "radio-on",
+		"checkboxOff": "radio",
+		"checkboxOver": "radio-over",
+		"font": "font",
+		"fontColor": "black"
+	}
+},
+"ImageButtonStyle": {
+	"default": {
+		"up": "normal",
+		"down": "pressed",
+		"over": "hover"
+	}
+},
+"ImageTextButtonStyle": {
+	"default": {
+		"font": "font",
+		"fontColor": "black",
+		"up": "normal",
+		"down": "pressed",
+		"over": "hover"
+	},
+	"radio": {
+		"imageUp": "radio",
+		"imageOver": "radio-over",
+		"imageChecked": "radio-on",
+		"imageCheckedOver": "radio-on-hover",
+		"font": "font",
+		"fontColor": "black"
+	},
+	"checkbox": {
+		"imageUp": "checkbox",
+		"imageOver": "checkbox-over",
+		"imageChecked": "checkbox-on",
+		"imageCheckedOver": "checkbox-on-over",
+		"font": "font",
+		"fontColor": "black"
+	}
+},
+"LabelStyle": {
+	"default": {
+		"font": "font",
+		"fontColor": "black"
+	},
+	"white": {
+		"font": "font",
+		"fontColor": "white"
+	},
+	"red": {
+		"font": "font",
+		"fontColor": "red"
+	},
+	"page": {
+		"font": "font",
+		"fontColor": "black",
+		"background": "page"
+	}
+},
+"ListStyle": {
+	"default": {
+		"font": "font",
+		"fontColorSelected": "black",
+		"fontColorUnselected": "black",
+		"selection": "selection",
+		"background": "list"
+	}
+},
+"ProgressBarStyle": {
+	"default-horizontal": {
+		"background": "progress-bar",
+		"knobBefore": "progress-bar-knob"
+	},
+	"default-vertical": {
+		"background": "progress-bar-vertical",
+		"knobBefore": "progress-bar-vertical-knob"
+	}
+},
+"ScrollPaneStyle": {
+	"default": {
+		"hScroll": "scrollbar-h",
+		"hScrollKnob": "scrollbar-h-knob",
+		"vScroll": "scrollbar-v",
+		"vScrollKnob": "scrollbar-v-knob"
+	}
+},
+"SelectBoxStyle": {
+	"default": {
+		"font": "font",
+		"fontColor": "black",
+		"background": "select-box",
+		"scrollStyle": "default",
+		"listStyle": "default",
+		"backgroundOpen": "select-box-pressed"
+	}
+},
+"SliderStyle": {
+	"default-horizontal": {
+		"background": "slider-h",
+		"knob": "slider-h-knob",
+		"knobBefore": "slider-h-before-knob"
+	},
+	"default-vertical": {
+		"background": "slider-v",
+		"knob": "slider-v-knob",
+		"knobBefore": "slider-v-before-knob"
+	}
+},
+"SplitPaneStyle": {
+	"default-horizontal": {
+		"handle": "split-pane-h"
+	},
+	"default-vertical": {
+		"handle": "split-pane-v"
+	}
+},
+"TextButtonStyle": {
+	"default": {
+		"font": "font",
+		"fontColor": "black",
+		"up": "normal",
+		"down": "pressed",
+		"over": "hover"
+	},
+	"toggle": {
+		"font": "font",
+		"fontColor": "black",
+		"up": "button",
+		"down": "button-pressed",
+		"over": "button-over",
+		"checked": "button-pressed"
+	}
+},
+"TextFieldStyle": {
+	"default": {
+		"font": "font",
+		"fontColor": "black",
+		"background": "rect",
+		"cursor": "black",
+		"selection": "cyan"
+	}
+},
+"TextTooltipStyle": {
+	"default": {
+		"label": "default",
+		"background": "rect"
+	}
+},
+"TouchpadStyle": {
+	"default": {
+		"background": "rect",
+		"knob": "rect"
+	}
+},
+"TreeStyle": {
+	"default": {
+		"plus": "folder",
+		"minus": "folder",
+		"selection": "selection"
+	}
+},
+"WindowStyle": {
+	"default": {
+		"background": "window",
+		"titleFont": "font",
+		"titleFontColor": "black",
+		"stageBackground": "black"
+	}
+}
+}
